@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+}
+:root{
+    --navbar-height:59px;
+}
+#navbar{
+    display:flex;
+    algin-items:center;
+}
